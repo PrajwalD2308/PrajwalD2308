@@ -14,14 +14,6 @@ Full Stack Software Developer | Python Flask | React.js | SaaS Applications
 
 
 
-# ⚡ Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=PrajwalD2308&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
----
-
 ## 🚀 About Me
 
 - 💻 Full Stack Software Developer at **Shri Prabhu Softlink Pvt. Ltd.**
@@ -145,6 +137,14 @@ Interactive Power BI dashboard for sales analytics, KPIs, trends, and business d
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+# ⚡ Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=PrajwalD2308&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
