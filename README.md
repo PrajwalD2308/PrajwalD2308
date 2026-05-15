@@ -15,6 +15,10 @@
 
 ## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,react,nextjs,js,ts,mysql,mongodb,tailwind,bootstrap,git,github,vscode,postman" />
+</p>
+
 ### Frontend
 - HTML5
 - CSS3
