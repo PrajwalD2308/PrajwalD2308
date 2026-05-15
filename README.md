@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Prajwal Dahane</h1>
 <h3 align="center">Full Stack Software Developer | Python Flask | React.js | SaaS Applications</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrajwalD2308&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🚀 About Me
